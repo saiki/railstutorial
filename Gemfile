@@ -62,3 +62,7 @@ gem 'win32console' if Gem.win_platform?
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 
 gem 'bootstrap-sass',       '3.2.0.0'
+
+gem 'faker',                '1.4.2'
+gem 'will_paginate',           '3.0.7'
+gem 'bootstrap-will_paginate', '0.0.10'
